@@ -1,0 +1,10 @@
+{
+  "baseURL": "https://techbytes2.netlify.app/",
+  "languageCode": "en-us",
+  "params": {
+     "contact": {
+        "email": "contact@techbytesfoundation.org"
+     }
+  },
+  "title": "Tech Bytes"
+}
