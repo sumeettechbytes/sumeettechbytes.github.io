@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://techbytesmeet.github.io"
+baseurl = "https://sumeettechbytes.github.io"
 languageCode = "en-us"
 title = "Tech Bytes"
 theme = "hugo-agency-theme"
